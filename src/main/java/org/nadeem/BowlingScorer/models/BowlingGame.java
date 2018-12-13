@@ -1,4 +1,4 @@
-package org.nadeem.scorer.models;
+package org.nadeem.BowlingScorer.models;
 
 import java.util.ArrayList;
 import java.util.List;

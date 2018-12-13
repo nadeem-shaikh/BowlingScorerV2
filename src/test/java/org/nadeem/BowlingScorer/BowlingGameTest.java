@@ -1,8 +1,8 @@
 package org.nadeem.BowlingScorer;
 
 import org.junit.Before;
-import org.nadeem.scorer.models.BowlingGame;
-import org.nadeem.scorer.utilities.ErrorResponse;
+import org.nadeem.BowlingScorer.models.BowlingGame;
+import org.nadeem.BowlingScorer.utilities.ErrorResponse;
 
 import junit.framework.TestCase;
 

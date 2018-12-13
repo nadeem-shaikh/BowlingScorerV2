@@ -1,12 +1,11 @@
 package org.nadeem.BowlingScorer;
 
+import org.junit.Assert;
 import org.junit.Before;
-import org.nadeem.scorer.utilities.ErrorResponse;
-import org.nadeem.scorer.utilities.Validator;
+import org.nadeem.BowlingScorer.utilities.ErrorResponse;
+import org.nadeem.BowlingScorer.utilities.Validator;
 
 import junit.framework.TestCase;
-
-import org.junit.Assert;
 
 /**
  * Unit test for American Ten Pin Bowling Application

@@ -1,4 +1,4 @@
-package org.nadeem.scorer.utilities;
+package org.nadeem.BowlingScorer.utilities;
 
 public class ErrorResponse {
 

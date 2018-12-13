@@ -1,6 +1,6 @@
 package org.nadeem.BowlingScorer;
 
-import org.nadeem.scorer.models.Frame;
+import org.nadeem.BowlingScorer.models.Frame;
 
 import junit.framework.TestCase;
 
