@@ -25,6 +25,6 @@ You will need below tools before you run this application
 # Steps To Run The Program
 
 1.  git clone https://github.com/nadeem-shaikh/BowlingGameScorer.git
-2.  cd BowlingGameScorer/
+2.  cd BowlingScorerV2/
 3.  mvn package
 4.  java -jar target/scorer-0.0.1-SNAPSHOT.jar XXXXXXXXXXXX
